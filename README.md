@@ -9,10 +9,11 @@ My desk is always super messy and I struggle to find things to do when I'm reall
 This 3D model was designed in **Onshape**. It was sliced in **BambuStudio**. Sign up for Onshape or another CAD that is compatible and install the following files:
 |File|What's inside?|
 |---|---|
-|fishbl.step|contains the editable CAD file|
+|fishbleditable.step|contains the editable CAD file|
 |fishbltower.3mf|contains the printable file for the tower|
 |fishblextra.3mf|contains the printable file for charms, base, and stoppers|
-|bom.csv|bill of materials|
+|bomusers.csv|bill of materials for general users (not for Half Life)|
+|BOM.csv|bill of materials for Half Life regarding the grant|
 
 ## Features
 * A spiral/helix marble track

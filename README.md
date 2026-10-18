@@ -53,13 +53,14 @@ These charms were made using a variety of tools, such as fillet, mirror, coincid
 The top section of smaller charms each only have 1 magnet, so it doesn't matter where you put them on the tower at all. 
 However, the three bigger charms at the bottom have 2 magnets each (to allow for more stability), so they need to be put in specific sections of the tower where the magnets are measured correctly. Just look for areas where the magnet-holes are in-line with each other!
 
-<img width="464" height="257" alt="image" src="https://github.com/user-attachments/assets/4d285b1a-9d75-4757-acb3-4a102513be50"/>
-<img width="378" height="282" alt="image" src="https://github.com/user-attachments/assets/09c6d908-6f66-4458-bc91-848f1481807a" />
+|<img width="464" height="257" alt="image" src="https://github.com/user-attachments/assets/4d285b1a-9d75-4757-acb3-4a102513be50"/>|<img width="378" height="282" alt="image" src="https://github.com/user-attachments/assets/09c6d908-6f66-4458-bc91-848f1481807a" />|
+|---|---|
 
 ## Slicing
-As stated previously, this model was sliced in BambuStudio, and I have the plate set for the A1 Mini. Because the tower is slightly too tall for the printer, I sliced it in half and arranged it on the corners so the tree supports wouldn't crash into each other. Additionally, there are two files because I couldn't fit everything onto just one plate. See the table in the summary for more details.
+As stated previously, this model was sliced in BambuStudio, and I have the plate set for the A1 Mini. Because the tower is slightly too tall for the printer, I sliced it in half and arranged it on the corners so the tree supports wouldn't crash into each other. Additionally, there are two files because I couldn't fit everything onto just one plate. See the table in the summary for more details!
 
-<img width="441" height="158" alt="image" src="https://github.com/user-attachments/assets/f0a97d00-4652-4044-9cd1-f657038581fa" />
+|<img width="706" height="751" alt="image" src="https://github.com/user-attachments/assets/d994eedd-15f7-4895-adb1-06f145eb4152" />|<img width="1084" height="676" alt="image" src="https://github.com/user-attachments/assets/d4d09b3b-2202-4039-8f43-6e89420ecc7b" />|
+|---|---|
 
 For printing, open up the .3mf files in BambuStudio (or other compatible software), and then slice it for your own 3D printer!
 

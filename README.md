@@ -65,3 +65,23 @@ As stated previously, this model was sliced in BambuStudio, and I have the plate
 For printing, open up the .3mf files in BambuStudio (or other compatible software), and then slice it for your own 3D printer!
 
 ## Bill of Materials
+|Part|Quantity|Price (USD)|Vendor|Link|
+|---|---|---|---|---|
+|Printing (PLA)|1|$32.50|Printing Legion (Hack Club)|https://app.slack.com/client/E09V59WQY1E/C083P4FJM46|
+|5*2mm Magnets|1|$1.85|Temu|https://www.temu.com/ca/50-100-200pcs-5x2mm-round-small-magnet-n35-magnet-whiteboard-magnet-magnet-5-2mm-suitable-for-office-fridge-kitchen-5mm-x-2mm-g-601101898850933.html?_oak_mp_inf=EPXEnomv1ogBGiAyZDViMzJhZmE5Y2M0NjMwODY0NTE0ZWJkYzBiZDJmYyCL1dbqkzQ%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F6bf20472-bf8f-4709-8dc6-5f95d22019cf.jpg&spec_gallery_id=601101898850933&refer_page_sn=10032&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=MjM3&_oak_gallery_order=1940780989%2C305096788%2C1057903802%2C814925036%2C597470560&_oak_rec_ext_2=MjM3&_oak_rec_ext_3=Njg4&_oak_rec_sku=17602021861395&_oak_rec_ext_4=1831854169885859044&search_key=small%20magnet&refer_page_el_sn=200049&refer_page_name=goods&refer_page_id=10032_1792288331690_qbn9icvo14&_x_sessn_id=ur1tnftsy8|
+|Gel Super Glue|1|$0.88|Dollarama|https://dollarama.instacart.com/store/dollarama/products/27058631-adhaero-thick-gel-super-glue-3-g|
+|80 & 120 Grit Sandpaper|1|$0.35|Home Depot|https://www.homedepot.ca/product/everbilt-2-95-inch-x-4-92-inch-x-1-inch-dual-grit-80-120-fine-medium-sanding-sponge/1001942562|
+|Filler Primer|1|$8.88|TG Store|https://tgstore.ca/products/kq462-automotive-filler-primer?variant=51307277287717&country=CA&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4URmFMOGqa499MFSUJuuVvjuKM-fAgAOx2L9aUcWEAg2i1EvLpyRvo|
+|Acrylic Paint|1|$3.36|Dollarama|https://dollarama.instacart.com/store/dollarama/products/27058703-artist-s-series-acrylic-paint-tubes-24-ct|
+|Spray Matte Finish|1|$10.58|Walmart|http://walmart.ca/en/ip/Krylon-UV-Resistant-Clear-Coating-Matte-Clear-312-g/6000207323847|
+|Taxes & Shipping|-|$17.13|-|-|
+|Total|-|$75.53|-|-|
+
+## Extra Notes [Half Life]
+Note that, for the BOM cart screenshots submitted on the Half Life website, the prices are in CAD, not USD. All prices are converted from CAD to USD in the BOM individually, so there may be a very small rounding error in the total. The cart screenshots are also not entirely accurate for the following vendors:
+* For Dollarama, the taxes are NOT included in the screenshot. This is because Dollarama requires you to purchase over $10.00 CAD worth of items when ordering online before it shows the full total including taxes. This restriction does not apply in-person, so it does not apply to me. However, the taxes are included in the BOM with the Ontario tax rate of 13%.
+* For Walmart, the cart screenshot shows a pickup fee for the price being under $35. This does not apply to me because I will not be ordering online to reserve my item, but rather only go in-person. Please ignore the charge and only refer to the subtotal and taxes.
+
+Furthermore, please pay attention to the descriptions of each item! Those that are labeled with [OUT OF POCKET] and [ALREADY OWNED] are not purchased with the grant and thus cost $0.01. Additionally, the vendors labeled (Local) are local to me, so I do not have to pay for shipping as I can go to them in person. All shipping prices are based on my own address and ability to go in-person for certain vendors. 
+
+I'm excited to get building my Fishbl!

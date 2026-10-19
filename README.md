@@ -1,12 +1,12 @@
 # Fishbl
 A custom 3D-modeled helix desk toy for marbles themed around fishes.
 
-My desk is always super messy and I struggle to find things to do when I'm really bored (other than just scrolling), so I made this desk toy that is just the right amount of satisfaction - not so much like social media that you get addicted, but not too little that you give up on it quickly. After watching several marble runs on Youtube, I found that the helix portion was perfect for me. I also wanted to add customization for the user as well, so that each person would have different Fishbls and can rearrange it however they like! Making this project taught me a LOT of tools and fundamentals of CAD while still being beginner-friendly, so I'd recommend it for anybody trying to build something similar.
+My desk is always super messy and I struggle to find things to do when I'm really bored (other than just scrolling...), so I made this desk toy that is just the right amount of satisfaction! It's not so much like social media that you get addicted, but not too little that you give up on it quickly. After watching several marble runs on Youtube, I found that the helix portion was perfect for me (watching the marbles go in loops really gets you entranced). I also wanted to add customization for the user as well, so that each person would have different Fishbls and can rearrange it however they like! Making this project taught me a LOT of tools and fundamentals of CAD while still being beginner-friendly, so I'd recommend it for anybody trying to build something similar.
 
 <img width="427" height="769" alt="Cover" src="https://github.com/user-attachments/assets/361a3c4b-a45e-4877-b782-3a845089fe56" />
 
 ## Summary
-This 3D model was designed in **Onshape**. It was sliced in **BambuStudio**. Sign up for Onshape or another CAD that is compatible and install the following files:
+This 3D model was designed in **Onshape**. It was sliced in **BambuStudio**. Sign up for Onshape or another CAD that is compatible and import the following files!
 |File|What's inside?|
 |---|---|
 |fishbleditable.step|contains the editable CAD file|
@@ -57,13 +57,15 @@ However, the three bigger charms at the bottom have 2 magnets each (to allow for
 |<img width="464" height="257" alt="image" src="https://github.com/user-attachments/assets/4d285b1a-9d75-4757-acb3-4a102513be50"/>|<img width="378" height="282" alt="image" src="https://github.com/user-attachments/assets/09c6d908-6f66-4458-bc91-848f1481807a" />|
 |---|---|
 
+The whole theme of this project is fishes, and the tower is meant to look kind of like an aquarium with many fishes swimming about! 
+
 ## Slicing
-As stated previously, this model was sliced in BambuStudio, and I have the plate set for the A1 Mini. Because the tower is slightly too tall for the printer, I sliced it in half and arranged it on the corners so the tree supports wouldn't crash into each other. Additionally, there are two files because I couldn't fit everything onto just one plate. See the table in the summary for more details!
+As stated previously, this model was sliced in BambuStudio, and I have the plate set for the Bambu Lab A1 Mini. Because the tower is slightly too tall for the printer, I sliced it in half and arranged it on the corners so the tree supports wouldn't crash into each other (this took a lot of fiddling around because the towers are essentially the exact size for the plate). Additionally, there are two files because I couldn't fit everything onto just one plate. See the table in the summary for more details!
 
 |<img width="706" height="751" alt="image" src="https://github.com/user-attachments/assets/d994eedd-15f7-4895-adb1-06f145eb4152" />|<img width="1084" height="676" alt="image" src="https://github.com/user-attachments/assets/d4d09b3b-2202-4039-8f43-6e89420ecc7b" />|
 |---|---|
 
-For printing, open up the .3mf files in BambuStudio (or other compatible software), and then slice it for your own 3D printer!
+For printing, open up the .3mf files in BambuStudio (or other compatible software), and then slice it for your own 3D printer! I recommend using PLA for the filament type.
 
 ## Bill of Materials
 |Part|Quantity|Price (USD)|Vendor|Link|
@@ -85,4 +87,4 @@ Note that, for the BOM cart screenshots submitted on the Half Life website, the 
 
 Furthermore, please pay attention to the descriptions of each item! Those that are labeled with [OUT OF POCKET] and [ALREADY OWNED] are not purchased with the grant and thus cost $0.01. Additionally, the vendors labeled (Local) are local to me, so I do not have to pay for shipping as I can go to them in person. All shipping prices are based on my own address and ability to go in-person for certain vendors. 
 
-I'm excited to get building my Fishbl!
+I'm excited to get building my Fishbl! This is probably the only week where I actually have at least a little bit of experience beforehand, so I put a LOT of effort into this and getting it the way I want! 
